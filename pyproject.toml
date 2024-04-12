@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "georoute"
+name = "cost-distance"
 version = "0.1.0"
 description = ""
 authors = ["Arthur Koehl <avkoehl@ucdavis.edu>"]
@@ -16,7 +16,6 @@ numpy = "^1.26.4"
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.23.0"
 jupyter = "^1.0.0"
-matplotlib = "0"
 
 [build-system]
 requires = ["poetry-core"]
