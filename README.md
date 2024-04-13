@@ -21,10 +21,10 @@ walls (unpassable cells) options:
 
 
 modules:
-`numba_djikstra.py` -- core algorithms
-`path.py` -- least cost path
-`accumulation.py` -- cost accumulation raster
-`hand.py` -- HAND
+`numba_djikstra.py` -- core algorithms  
+`path.py` -- least cost path  
+`accumulation.py` -- cost accumulation raster  
+`hand.py` -- HAND  
 
 # Development
 
